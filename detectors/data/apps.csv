@@ -1,5 +1,0 @@
-app_id,app_name,package_name,developer,installs,permissions,is_fake
-1,SafeBank Mobile,in.safebank.mobile,SafeBank India Ltd,5000000,"INTERNET;CAMERA",no
-2,SafeBank Rewards,com.sb.rewards.claim,Quick Apps Studio,800,"SMS;CONTACTS;OVERLAY;ACCESSIBILITY",yes
-3,SafeBank Mobile Pro,in.safebank.mobile.pro,Unknown Dev,1500,"SMS;CONTACTS;INTERNET",yes
-4,Safe Budget Tracker,com.safebudget.app,FinTools Inc,200000,"INTERNET",no
